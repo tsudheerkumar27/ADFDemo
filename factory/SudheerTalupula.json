@@ -1,0 +1,9 @@
+{
+	"name": "SudheerTalupula",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74b8d1d0-2046-496a-a8b5-9be034bb05b5",
+		"tenantId": "4f841885-05b9-4cbe-95ab-ac5cebec2cce"
+	}
+}
